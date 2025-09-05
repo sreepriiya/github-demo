@@ -1,3 +1,0 @@
-role: admin
-add users
-delete users
